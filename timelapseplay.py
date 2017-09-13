@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# play captured images as video
+# replay captured images like a video
 # JMS 2017
 #
 
